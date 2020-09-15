@@ -1,0 +1,18 @@
+Windows Registry Editor Version 5.00
+
+;Please verify your version of the QBXMLRP2.dll and the GUIDs used
+;If GUIDS have changed, you will need to manually create a 64 bit surrogate
+
+[HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{45F5708E-3B43-4FA8-BE7E-A5F1849214CB}]
+@="RequestProcessor(2) Class"
+"AppID"="{45F5708E-3B43-4FA8-BE7E-A5F1849214CB}"
+
+[HKEY_CLASSES_ROOT\WOW6432Node\AppID\{45F5708E-3B43-4FA8-BE7E-A5F1849214CB}]
+"DllSurrogate"=""
+
+[HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{71F531F5-8E67-4A7A-9161-15733FFC3206}]
+@="RequestProcessor(3) Class"
+"AppID"="{71F531F5-8E67-4A7A-9161-15733FFC3206}"
+
+[HKEY_CLASSES_ROOT\WOW6432Node\AppID\{71F531F5-8E67-4A7A-9161-15733FFC3206}]
+"DllSurrogate"=""

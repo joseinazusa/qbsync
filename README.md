@@ -2,7 +2,7 @@
 Example Project showing how to connect to Quickbooks Desktop via COM using Java and JACOB
 
 Youtube Video:
-https://www.youtube.com/watch?v=GJZlUSOLW9M
+https://youtu.be/yenpA-6Q3gs
 
 Helpful Links:
 
